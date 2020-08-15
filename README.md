@@ -1,2 +1,2 @@
 # Loan-Calculator
-Using Javascript
+Using Javascript for learning purpose
